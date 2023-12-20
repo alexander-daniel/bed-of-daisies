@@ -1,0 +1,11 @@
+[
+  {
+    "name": "DAISY GCC 10.3.1 arm-none-eabi",
+    "compilers": {
+      "C": "/usr/local/bin/arm-none-eabi-gcc",
+      "CXX": "/usr/local/bin/arm-none-eabi-g++"
+    },
+    "toolchainFile": "lib/libDaisy/cmake/toolchains/stm32h750xx.cmake",
+    "isTrusted": true
+  }
+]
